@@ -22,6 +22,7 @@ class Header extends Component {
 
     return (
       <header id='home'>
+
         <ParticlesBg type='circle' bg={true} />
         <nav id='nav-wrap'>
           <a className='mobile-btn' href='#nav-wrap' title='Show navigation'>
@@ -65,38 +66,40 @@ class Header extends Component {
             <h1 className='responsive-headline'>{name}</h1>
             <h3>{description}.</h3>
             <hr />
+
             <ul className='social'>
               <li>
-                <a href='https://www.facebook.com/AhmedHassnGX/' target='_blank'>
-                  <i className='fab fa-facebook'></i>
+                <a href='https://www.facebook.com/youssef.adel.100' target='_blank'>
+                  <i className='fa fa-facebook'></i>
                 </a>
               </li>
               <li>
-                <a href='https://twitter.com/AhmedA_Hassn' target='_blank'>
-                  <i className='fab fa-twitter'></i>
+                <a href='https://twitter.com/youssefadel1998' target='_blank'>
+                  <i className='fa fa-twitter'></i>
                 </a>
               </li>
               <li>
-                <a href='https://www.linkedin.com/in/ahmed-hassn-868233107/' target='_blank'>
-                  <i className='fab fa-linkedin'></i>
+                <a href='https://www.linkedin.com/in/youssef-adel-b5b34a124/' target='_blank'>
+                  <i className='fa fa-linkedin'></i>
                 </a>
               </li>
               <li>
-                <a href='https://wa.link/6mcty6' target='_blank'>
-                  <i className='fab fa-whatsapp'></i>
+                <a href='https://api.whatsapp.com/send?phone=201147726477&text=%20%20' target='_blank'>
+                  <i className="fa fa-whatsapp" style={{color:"black"}}></i>
                 </a>
               </li>
               <li>
-                <a href='https://discordapp.com/users/487582256865607681' target='_blank'>
-                  <i className='fab fa-discord'></i>
+                <a href='https://github.com/youssefadel77' target='_blank'>
+                  <i className='fa fa-github'></i>
                 </a>
               </li>
               <li>
-                <a href='tel:01148896639'>
-                  <i className='fas fa-phone-alt'></i>
+                <a href='tel:+201147726477'>
+                  <i className='fa fa-phone'></i>
                 </a>
               </li>
             </ul>
+
           </div>
         </div>
 

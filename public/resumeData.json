@@ -3,8 +3,8 @@
     "name": "Youssef Adel ",
     "description": "Experienced and results-oriented Back-end Developer with a deep passion for the job and a Computer Science degree from Helwan University. Offering strong attention to detail and accuracy, excellent problem-solving skills, and the important ability to work in fast-paced team environments, Youssef is a reliable individual with determination to meet and exceed all assigned results",
     "image": "2.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage": "Maybe some spirit is trying to contact us to set things straight.",
+    "bio": "Experienced and results-oriented Back-end Developer with a deep passion for the job and a Computer Science degree from Helwan University. Offering strong attention to detail and accuracy, excellent problem-solving skills, and the important ability to work in fast-paced team environments, Youssef is a reliable individual with determination to meet and exceed all assigned results.",
+    "contactmessage": "Not Working yet",
     "email": "youssef.ayed.98@gmail.com",
     "phone": "+201147726477",
     "github": "https://github.com/youssefadel77",
@@ -15,8 +15,8 @@
       "state": "Egypt",
       "zip": "12511"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/1lslH6uMm1glPuOaJn13qSCuXrzDw4rNg/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -46,7 +46,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "",
     "education": [
       {
         "school": "Computer Science and Artificial Intelligence Helwan University",
@@ -57,50 +57,50 @@
     ],
     "work": [
       {
+        "company": "YoGo",
+        "title": "Software Engineer BackEnd (Part Time)",
+        "years": "December 2020 - Present",
+        "description": "Ordering Pickup system in Saudi Aribia, Your one-stop app for merchandise with a seamless experience for browsing stores in plazas."
+      },
+      {
         "company": "Upwork",
         "title": "Software Engineer BackEnd and Machine learning Dev",
         "years": "June 2019 - Present",
-        "description": "Building machine learning applications Object detections, Face detection, and NLP.\tBuilding backend APIs for mobile applications."
-      },
-      {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description": "Building machine learning applications Object detections, Face detection, and NLP, Building backend APIs for mobile applications."
       }
     ],
     "skills": [
       {
-        "name": "Python",
-        "level": "60%"
+        "name": "JavaScribt",
+        "level": "95%"
       },
       {
-        "name": "VueJs",
-        "level": "55%"
+        "name": "Node.js",
+        "level": "90%"
+      },
+      {
+        "name": "Mongodb",
+        "level": "90%"
+      },
+      {
+        "name": "SQL",
+        "level": "85%"
       },
       {
         "name": "ReactJs",
         "level": "50%"
       },
       {
-        "name": "CSS",
-        "level": "90%"
+        "name": "Laravel",
+        "level": "60%"
       },
       {
-        "name": "PHP",
-        "level": "80%"
-      },
-      {
-        "name": "Swift",
-        "level": "50%"
+        "name": "Python",
+        "level": "75%"
       },
       {
         "name": "JAVA",
-        "level": "80%"
-      },
-      {
-        "name": "JAVA",
-        "level": "80%"
+        "level": "65%"
       }
     ]
   },

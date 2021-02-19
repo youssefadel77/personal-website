@@ -1725,6 +1725,10 @@
     content: "\f193";
 }
 
+.fa-whatsapp:before {
+    content: "\f197";
+}
+
 .fa-vimeo-square:before {
     content: "\f194";
 }

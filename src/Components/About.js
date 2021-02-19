@@ -25,6 +25,8 @@ class About extends Component {
             <h2>About Me</h2>
 
             <p>{bio}</p>
+            <br />
+            <br />
             <div className='row'>
               <div className='columns contact-details'>
                 <h2>Contact Details</h2>
@@ -52,6 +54,10 @@ class About extends Component {
             </div>
           </div>
         </div>
+        <br />
+        <br />
+        <br />
+        <br />
       </section>
     );
   }
