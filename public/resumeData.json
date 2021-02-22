@@ -72,19 +72,19 @@
     "skills": [
       {
         "name": "JavaScribt",
-        "level": "95%"
+        "level": "85%"
       },
       {
         "name": "Node.js",
-        "level": "90%"
+        "level": "80%"
       },
       {
         "name": "Mongodb",
-        "level": "90%"
+        "level": "80%"
       },
       {
         "name": "SQL",
-        "level": "85%"
+        "level": "75%"
       },
       {
         "name": "ReactJs",
@@ -92,49 +92,68 @@
       },
       {
         "name": "Laravel",
-        "level": "60%"
+        "level": "50%"
       },
       {
         "name": "Python",
-        "level": "75%"
+        "level": "65%"
       },
       {
         "name": "JAVA",
-        "level": "65%"
+        "level": "60%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "YoGo",
+        "category": "In development ",
+        "image": "6.jpg",
+        "url": ""
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "Pets live",
+        "category": "In development ",
+        "image": "7.jpg",
+        "url": ""
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "Object Detection",
+        "category": "Detect the cargo and the pallet !",
+        "image": "1.jpg",
+        "url": "https://github.com/youssefadel77/Emotion-Gender-Detection"
       },
       {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "Tag prediction",
+        "category": "Predict the tags in stackoverflow.",
+        "image": "8.jpeg",
+        "url": "https://github.com/youssefadel77/Tags_Prediction"
       },
       {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "title": "War of worms",
+        "category": "Worms fight with gun and granite!",
+        "image": "2.jpg",
+        "url": "https://github.com/youssefadel77/War-Of-Worms"
+      },
+
+      {
+        "title": "Roll a zombie",
+        "category": "Lets have fun .. Cool Zombies Cool Music Cool Game .. Don't let zombies fall !! Play with (left-right-up) Buttons :D",
+        "image": "5.jpg",
+        "url": "https://github.com/youssefadel77/Roll-A-Zombie-Starter"
+      },
+      {
+        "title": "Haunted zombie rush",
+        "category": " Cool Zombies Cool Music Cool Game",
+        "image": "3.jpg",
+        "url": "https://www.youtube.com/watch?v=OtguahpVnn8&ab_channel=YoussefAdel"
+      },
+      {
+        "title": "Grass way",
+        "category": "",
+        "image": "4.jpg",
+        "url": "https://www.youtube.com/watch?v=WA1euOwRltM&ab_channel=YoussefAdel"
       }
     ]
   }

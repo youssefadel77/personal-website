@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import ParticlesBg from 'particles-bg';
+import { FaWhatsapp } from 'react-icons/fa';
 
 class Header extends Component {
   render() {
@@ -85,7 +86,7 @@ class Header extends Component {
               </li>
               <li>
                 <a href='https://api.whatsapp.com/send?phone=201147726477&text=%20%20' target='_blank'>
-                  <i className="fa fa-whatsapp" style={{color:"black"}}></i>
+                  <FaWhatsapp  />
                 </a>
               </li>
               <li>
