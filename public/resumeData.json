@@ -16,7 +16,7 @@
       "zip": "12511"
     },
     "website": "",
-    "resumedownload": "https://drive.google.com/file/d/1lslH6uMm1glPuOaJn13qSCuXrzDw4rNg/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1bF2bnElBxGx-Mrd0LcspDE5ZprNuxgo-/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -59,7 +59,7 @@
       {
         "company": "YoGo",
         "title": "Software Engineer BackEnd (Part Time)",
-        "years": "December 2020 - Present",
+        "years": "December 2020 - March 2021",
         "description": "Ordering Pickup system in Saudi Aribia, Your one-stop app for merchandise with a seamless experience for browsing stores in plazas."
       },
       {
@@ -67,6 +67,18 @@
         "title": "Software Engineer BackEnd and Machine learning Dev",
         "years": "June 2019 - Present",
         "description": "Building machine learning applications Object detections, Face detection, and NLP, Building backend APIs for mobile applications."
+      },
+      {
+        "company": "Clakett",
+        "title": "Software Engineer BackEnd (Full Time)",
+        "years": "June 2020 - Present",
+        "description": "Building Social Network Application for Media Industry using node.js, express, MongoDB, socket.io, and REST- APIs. Building Event System with socket connection to make Chat Feature in the application. Integrate with SubsBase, payment method Paymob."
+      },
+      {
+        "company": "Selection Vally",
+        "title": "Software Engineer BackEnd (Part Time)",
+        "years": "March 2021 - June 2021",
+        "description": "Building eCommerce Application using node.js, express, MongoDB, and REST- APIs. The application called Perla. Integrate with payment method Digital World."
       }
     ],
     "skills": [
@@ -108,15 +120,21 @@
     "projects": [
       {
         "title": "YoGo",
-        "category": "In development ",
+        "category": "E-Commerce In development  ",
         "image": "6.jpg",
         "url": ""
       },
       {
-        "title": "Pets live",
-        "category": "In development ",
+        "title": "Pet Live",
+        "category": "Medical",
         "image": "7.jpg",
-        "url": ""
+        "url": "https://play.google.com/store/apps/details?id=com.petlive.client&hl=en_US&gl=US"
+      },
+      {
+        "title": "Perla",
+        "category": "E-Commerce",
+        "image": "9.jfif",
+        "url": "https://perla-ksa.com/"
       },
       {
         "title": "Object Detection",
@@ -136,7 +154,6 @@
         "image": "2.jpg",
         "url": "https://github.com/youssefadel77/War-Of-Worms"
       },
-
       {
         "title": "Roll a zombie",
         "category": "Lets have fun .. Cool Zombies Cool Music Cool Game .. Don't let zombies fall !! Play with (left-right-up) Buttons :D",
